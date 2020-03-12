@@ -1,3 +1,20 @@
 body {
-    background: red;
+    background: rgb(173, 152, 152);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+header{
+    margin-top: 70px;
+}
+h1 {
+    color: red
+    font-family : fantasy
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+img {
+    margin-bottom: 20px;
 }
